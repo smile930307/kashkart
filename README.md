@@ -8,7 +8,7 @@
 </p>
 
 <h2 align="center">Built with React JS :atom: at core.</h2>
-<h2 align="center"><a href="https://kashkart.netlify.app/"> Live Site </a></h2>
+<h2 align="center"><a href="https://kashkart-q07tmni37-smile930307.vercel.app/"> Live Site </a></h2>
 
 
 ## :bookmark_tabs: Introduction 
